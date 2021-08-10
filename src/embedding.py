@@ -47,11 +47,13 @@ def createSVGString(rows:List[str], width:int=3000, height:int=2000) -> str:
  </g>
 </svg>
     """)
-    rect_width = 160
-    rect_height = 40
-    line_height = 160
-    curr_x = 0
-    curr_y = 0
+    rect_width = 80
+    rect_height = 20
+    line_height = 80
+    gutter_x = 20
+    gutter_y = 20
+    curr_x = gutter_x
+    curr_y = gutter_y
     curr_shape_index = 0
     content_string = ''
     for row in rows:
@@ -64,7 +66,7 @@ def createSVGString(rows:List[str], width:int=3000, height:int=2000) -> str:
             curr_x += rect_width
         # new line, reset x, move down y
         curr_y += line_height
-        curr_x = 0
+        curr_x = gutter_x
     return svg_template.substitute(dict(content=content_string))
 
 

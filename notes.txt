@@ -1,0 +1,16 @@
+Eoin Dickson's laser cutter
+"k40" model
+
+.dxf/svg file
+200 x 300 mm bed
+
+illustrator / inkscape should export the file
+
+"k40 whisperer" sends dxf to printer.
+
+
+
+--------
+Alernative - vinyl cut
+
+CRICUT Joy DIY Digital Cutting & Printing Machine

@@ -1,0 +1,14 @@
+{
+  "name": "dapp-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testHandler.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3-eth-contract": "^1.5.2"
+  }
+}

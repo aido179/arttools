@@ -1,0 +1,40 @@
+{
+  "description": "This Non-Fungible Token (NFT) represents the ownership of a physical artwork. The owner of this NFT has the right to physically possess the artwork described by the NFT. The artwork can be identified by the contract address and tokenID which are bonded to the rear of the canvas. The contract address and tokenID are displayed in plain text and also as a QR code.",
+  "external_url": "https://artcanvas.app",
+  "image": "https://ipfs.io/ipfs/QmbheMuVXdsGQjH9WGQvEVJRajRZvRmmogCfFdST6ozaKC",
+  "name": "Cow in Field (art:canvas prototype 2)",
+  "attributes": [
+    {
+      "trait_type": "Artist Name",
+      "value": "Aidan Breen"
+    },
+    {
+      "trait_type": "Artist Nationality",
+      "value": "Irish"
+    },
+    {
+      "trait_type": "Artist Date Of Birth",
+      "value": "1991/08/02"
+    },
+    {
+      "trait_type": "Artist URI",
+      "value": "https://twitter.com/aidanbreen"
+    },
+    {
+      "trait_type": "Artwork Date",
+      "value": "2020/08/17"
+    },
+    {
+      "trait_type": "Artwork Dimensions",
+      "value": "40 x 20 cm"
+    },
+    {
+      "trait_type": "Artwork Medium",
+      "value": "Acrylic paint on canvas"
+    },
+    {
+      "trait_type": "Artwork Title",
+      "value": "Cow in Field"
+    }
+  ]
+}

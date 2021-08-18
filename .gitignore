@@ -4,3 +4,4 @@ __pycache__/
 /lib
 /include
 *.cfg
+**/node_modules/**/*

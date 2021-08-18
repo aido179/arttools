@@ -14,3 +14,31 @@ illustrator / inkscape should export the file
 Alernative - vinyl cut
 
 CRICUT Joy DIY Digital Cutting & Printing Machine
+
+-------
+epoxy:
+https://www.wallerwickham.ie/contact-us.php
+
+
+-
+OWNERSHIP OF THIS ARTWORK IS DETERMINED BY THE FOLLOWING ETHEREUM SMART CONTRACT
+ADDRESS:0XABEFBC9FD2F806065B4F3C237D4B59D9A97BCAC7
+TOKENID:3625
+
+Ownership of this artwork is determined by the following Ethereum smart contract
+address:0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7
+tokenId:3625
+
+----
+
+Ownership of this artwork is determined by the following Ethereum smart contract
+address:0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7
+tokenId:4565
+
+
+cow in field
+
+https://3i07yfpvl5.execute-api.eu-west-1.amazonaws.com/default/test-web3-function?a=0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7&t=4565
+
+
+https://api.opensea.io/asset/0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7/4565/validate/

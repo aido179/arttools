@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node testHandler.js"
+    "test-view": "node testHandler-view.js",
+    "test-mint": "node testHandler-mint.js"
   },
   "author": "",
   "license": "ISC",

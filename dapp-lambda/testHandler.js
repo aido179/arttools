@@ -1,6 +1,8 @@
 let handler = require('./index.js');
 const test_address = "0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7"
 const test_tokenId = "4565"
+//const network = "rinkeby"
+const network = "mainnet"
 
 const test_event = {
 "version":"2.0",
@@ -28,7 +30,8 @@ const test_event = {
 },
 "queryStringParameters":{
 "a":test_address,
-"t":test_tokenId
+"t":test_tokenId,
+"n":network
 },
 "requestContext":{
 "accountId":"638423662509",
